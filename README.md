@@ -23,7 +23,7 @@ Me chamo João Marcos, tenho 22 anos. Estou concluindo meu Tecnologo em Analise 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10;" 
     src="https://github-readme-stats.vercel.app/api?username=JoaoMMartinsDev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
