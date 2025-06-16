@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-End`**
 
-Me chamo João Marcos, tenho 22 anos. Estou concluindo meu Tecnologo em Analise e Desenvolvimento de Sistemas pela faculdade CEUB de Brasilia, estou estudando e criando APIs para conseguir meu primeiro emprego sendo desenvolvedor JAVA. 
+Me chamo João Marcos, tenho 22 anos. Estou concluindo meu Tecnologo em Analise e Desenvolvimento de Sistemas pela faculdade CEUB de Brasilia, trabalho atualmente como N2 e sempre que posso estou estudando e criando APIs para conseguir meu primeiro emprego sendo desenvolvedor JAVA. 
 
 ---
 
